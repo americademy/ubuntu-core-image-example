@@ -14,7 +14,6 @@ Thank you to the authors
 * first example I found of creating a system user with an assertation https://docs.ubuntu.com/core/en/guides/build-device/image-building
 * system user assertation documentation https://docs.ubuntu.com/core/en/reference/assertions/system-user
 * official documentation (reference of most things we need down the left side menu) https://docs.ubuntu.com/core/en/
-* official snapcraft documentation - lots of helpful stuff listed down the left side menu
 * snapcraft - explanation and example of the gadget snap https://forum.snapcraft.io/t/the-gadget-snap/696
 * snapcraft - explanation and example of the snap format https://forum.snapcraft.io/t/the-snap-format/698
 * model assertation documentation https://docs.ubuntu.com/core/en/reference/assertions/model
