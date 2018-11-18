@@ -1,0 +1,15 @@
+{
+  "type": "model",
+  "authority-id": "NrmnEDpPf7No07aD8VpAs72qQ3tPi1i8",
+  "brand-id": "NrmnEDpPf7No07aD8VpAs72qQ3tPi1i8",
+  "series": "16",
+  "model": "zotac-pi335",
+  "display-name":"Codeverse Portal (Zotac PI335)",
+  "architecture": "amd64",
+  "gadget": "pc",
+  "kernel": "pc-kernel",
+  "timestamp": "%TIMESTAMP%",
+  "required-snaps": [
+    "codeverse-portal"
+  ]
+}
