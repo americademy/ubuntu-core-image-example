@@ -9,7 +9,5 @@
   "gadget": "pc",
   "kernel": "pc-kernel",
   "timestamp": "%TIMESTAMP%",
-  "required-snaps": [
-    "codeverse-portal"
-  ]
+  "required-snaps": []
 }
