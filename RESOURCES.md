@@ -17,7 +17,6 @@ Thank you to the authors
 * snapcraft - explanation and example of the gadget snap https://forum.snapcraft.io/t/the-gadget-snap/696
 * snapcraft - explanation and example of the snap format https://forum.snapcraft.io/t/the-snap-format/698
 * model assertation documentation https://docs.ubuntu.com/core/en/reference/assertions/model
-* model assertation documentation https://docs.ubuntu.com/core/en/reference/assertions/model
 * source for the chromium-mir-kiosk snap https://git.launchpad.net/~gerboland/+git/chromium-snap/?h=mir-kiosk
 * some info on the configure hook https://kyrofa.com/posts/snap-configuration-the-configure-hook
 * Cloud-init documentation https://cloudinit.readthedocs.io/en/latest/topics/network-config.html
