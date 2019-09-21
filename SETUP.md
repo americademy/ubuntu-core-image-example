@@ -10,6 +10,7 @@ sudo apt install ubuntu-image snapd snapcraft
 ### install kvm, for testing our created images
 ```
 sudo apt install qemu-kvm
+# note - if you're running ubuntu inside vm ware then make sure to "enable hypervisor applications in this virtual machine" under vm settings -> processor
 ```
 
 ### Building snaps
